@@ -56,5 +56,5 @@ Example:
 ```
 
 ## Author
-- github: ntt1912
+- github: [ntt1912](https://github.com/ntt1912)
 - email: ntt30121912@gmail.com
